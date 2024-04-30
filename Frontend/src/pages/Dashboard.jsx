@@ -8,13 +8,6 @@ const Dashboard = () => {
   const [data, setData] = useState([]);
   const [reload, setReload] = useState(false);
 
-  function AlertClockIn() {
-    return <Alert>Clocked In </Alert>;
-  }
-  function AlertClockedOut() {
-    return <Alert>Clocked Out </Alert>;
-  }
-
   const calculateTotalTime = (events) => {
     let totalMilliseconds = 0;
     for (let i = 0; i < events.length; i++) {
@@ -123,14 +116,13 @@ const Dashboard = () => {
             us. Let's make a difference together!{" "}
           </p>
         </div>
-        <div className=" mr-10 ">
+        <div className=" mr-10 ml-10">
           <img src={davis} className="rounded-lg max-w-screen-sm"></img>
         </div>
       </div>
-      <div> " "</div>
-      <div> " "</div>
-      <div> " "</div>
-      <div> " "</div>
+      <div>
+        <p> </p>{" "}
+      </div>
     </div>
   );
 };
