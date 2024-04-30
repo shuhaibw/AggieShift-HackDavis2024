@@ -1,4 +1,5 @@
 # AggieShift
+<img width="1438" alt="Screenshot 2024-04-28 at 1 26 24 PM" src="https://github.com/harshitjaglan/HackDavis2024/assets/116933487/19d68d60-35c0-4e04-aa63-858fa83b126a">
 
 ## About the Project
 
