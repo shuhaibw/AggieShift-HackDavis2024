@@ -1,5 +1,5 @@
 # AggieShift
-(AggieShift-HackDavis2024/Frontend/public/signup.png)
+![signup page](AggieShift-HackDavis2024/Frontend/public/signup.png)
 <img width="1159" alt="Screenshot 2024-04-28 at 1 25 38 PM" src="https://github.com/harshitjaglan/HackDavis2024/assets/116933487/b884e12a-306c-4d5b-94a1-d2111b7de362">
 <img width="1438" alt="Screenshot 2024-04-28 at 1 26 24 PM" src="https://github.com/harshitjaglan/HackDavis2024/assets/116933487/19d68d60-35c0-4e04-aa63-858fa83b126a">
 
