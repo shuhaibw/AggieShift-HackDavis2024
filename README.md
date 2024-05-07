@@ -1,4 +1,6 @@
-# AggieShift
+# HackDavis 2024
+
+## Project AggieShift
 
 ![signup page](/Frontend/public/signup.png)
 <img width="1159" alt="Screenshot 2024-04-28 at 1 25 38 PM" src="https://github.com/harshitjaglan/HackDavis2024/assets/116933487/b884e12a-306c-4d5b-94a1-d2111b7de362">
@@ -6,7 +8,7 @@
 ![admin page](/Frontend/public/admin.png)
 
 ## My Contributions
-My focus was on creating a welcoming and intuitive experience for volunteers. Using React.js, Tailwind CSS, and HTML, I aimed for simplicity and functionality, ensuring seamless navigation and ease of use for daily tasks. Inspired by the AggieHouse website, I tailored the design elements to reflect the project's identity, fostering familiarity and cohesion within the volunteer community. By prioritizing user needs and striving for a blend of aesthetics and usability, I created a frontend experience that resonates with volunteers, empowering them to navigate effortlessly through their daily responsibilities.
+My focus was on creating a welcoming and intuitive experience for volunteers. Using React.js, Tailwind CSS, and HTML, I aimed for simplicity and functionality, ensuring seamless navigation and ease of use for daily tasks. Although it was my first time using Tailwind CSS and React.js without the Next.js framework, I found that the demand to evolve my skillset helped my adaptability and problem-solving abilities flourish, ultimately enhancing my proficiency in frontend development. Inspired by the AggieHouse website, I tailored the design elements to reflect the project's identity, fostering familiarity and cohesion within the volunteer community. By prioritizing user needs and striving for a blend of aesthetics and usability, I created a frontend experience that resonates with volunteers, empowering them to navigate effortlessly through their daily responsibilities.
 
 ## Link to Original Repository
 https://github.com/harshitjaglan/AggieShift-HackDavis2024
@@ -22,6 +24,9 @@ The inspiration behind AggieShift stemmed from the need to simplify volunteer ma
 ## What We Learned
 
 Throughout the development of AggieShift, we acquired invaluable experience in integrating various technologies to create a dynamic web application. From React for frontend interactivity to Tailwind CSS for responsive design, each component contributed to our understanding of modern web development practices.
+
+### Rapid Development in a Time-Constrained Environment
+Participating in the HackDavis hackathon, with its stringent 24-hour timeframe, provided a unique opportunity to further enhance our team project skills and interaction. Amidst the time pressure, we honed our abilities to communicate effectively, collaborate seamlessly, and make swift yet informed decisions. This immersive experience not only tested our technical prowess but also fostered a culture of adaptability and resilience within our team.
 
 ## How We Built It
 
@@ -42,3 +47,4 @@ Despite these challenges, our team persevered through rigorous testing and itera
 Looking ahead, we have ambitious plans to further enhance AggieShift's functionality and user experience. One of our primary goals is to implement notifications for volunteers, allowing them to receive alerts for upcoming volunteer shifts and events. This feature will ensure better engagement and participation among volunteers, ultimately benefiting Aggie House's mission.
 
 Additionally, we aim to introduce a feature on the admin page where administrators can view who is currently clocked in. This enhancement will provide administrators with real-time insights into volunteer activities, facilitating better management and coordination of resources.
+
