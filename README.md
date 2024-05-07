@@ -8,6 +8,9 @@
 ## My Contributions
 My focus was on creating a welcoming and intuitive experience for volunteers. Using React.js, Tailwind CSS, and HTML, I aimed for simplicity and functionality, ensuring seamless navigation and ease of use for daily tasks. Inspired by the AggieHouse website, I tailored the design elements to reflect the project's identity, fostering familiarity and cohesion within the volunteer community. By prioritizing user needs and striving for a blend of aesthetics and usability, I created a frontend experience that resonates with volunteers, empowering them to navigate effortlessly through their daily responsibilities.
 
+## Link to Original Repository
+https://github.com/harshitjaglan/AggieShift-HackDavis2024
+
 ## About the Project
 
 AggieShift was born out of the necessity to streamline volunteer management processes at Aggie House, a non-profit organization. Our goal was to create a convenient solution for volunteers to effortlessly clock in and out while providing administrators with real-time insights into volunteer activities.
